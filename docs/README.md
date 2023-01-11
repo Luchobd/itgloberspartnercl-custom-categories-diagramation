@@ -10,8 +10,7 @@ Bullets dragramation es un componente que muestra un contexto de elementos de li
 
 ### Paso 1 - Configuración Básica
 
-Español: Crear un nuevo repositorio usando el template de GitHub react-app-template.
-English: Create a new repository using the GitHub template react-app-template.
+Crear un nuevo repositorio usando el template de GitHub react-app-template.
 
 ### Paso 2 - Clonación del repositorio
 
